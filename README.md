@@ -3,7 +3,8 @@ Hi there, and welcome to my profile.
 My name is Joseph Ogelenya, but I go by "Ojay", for short.
 I am a front end developer, with aspirations of going fullstack in the nearest future.
 
-My skills.
+My skills
+
 I have knowledge and practice in building projects with the following technologies:
 - HTML
 - CSS
