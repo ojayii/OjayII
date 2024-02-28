@@ -1,10 +1,18 @@
-- 👋 Hi, I’m Ojay.
-- 👀 I’m interested in web development.
-- 🌱 I’m currently exploring the basics of front-end development.
-- 📫 How to reach me?... just say my name.
-- ...But here's my email address just in case i don't hear you:
-josephoges9@gmail.com
-<!---
-OjayII/OjayII is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there, and welcome to my profile.
+
+My name is Joseph Ogelenya, but I go by "Ojay", for short.
+I am a front end developer, with aspirations of going fullstack in the nearest future.
+
+My skills
+I have knowledge and practice in building projects with the following technologies:
+- HTML
+- CSS
+- SCSS
+- Javascript
+- And much recently, React.
+
+Here's a link to my Frontend mentor profile, where all of my solutions are submitted:
+- Frontend Mentor - https://www.frontendmentor.io/profile/ojayii
+
+And here's my email address if you're looking to contact me:
+- Email: josephoges9@gmail.com
