@@ -18,4 +18,4 @@ Here's a link to my Frontend mentor profile, where all of my solutions are submi
 - Frontend Mentor - https://www.frontendmentor.io/profile/ojayii
 
 And here's my email address if you're looking to contact me:
-- Email: josephoges9@gmail.com
+- Email: ojayiioxide@gmail.com
