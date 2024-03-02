@@ -1,7 +1,7 @@
 Hi there, and welcome to my profile.
 
 My name is Joseph Ogelenya, but I go by "Ojay", for short.
-I am a front end developer, with aspirations of going fullstack in the nearest future.
+I am a computer science student, and a front end developer with aspirations of going fullstack in the nearest future.
 
 
 My skills
@@ -19,3 +19,4 @@ Here's a link to my Frontend mentor profile, where all of my solutions are submi
 
 And here's my email address if you're looking to contact me:
 - Email: ojayiioxide@gmail.com
+         josephoges9@gmail.com
