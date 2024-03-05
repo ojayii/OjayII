@@ -10,13 +10,16 @@ I have knowledge and practice in building projects with the following technologi
 - HTML
 - CSS
 - SCSS
+- Git and GitHub
 - Javascript
-- And much recently, React.
+- React
 
 
 Here's a link to my Frontend mentor profile, where all of my solutions are submitted:
 - Frontend Mentor - https://www.frontendmentor.io/profile/ojayii
 
-And here's my email address if you're looking to contact me:
-- Email: ojayiioxide@gmail.com
-         josephoges9@gmail.com
+I'm ready and open for collaborations or a Frontend role.
+
+Feel free to reach out to me through any of the following means:
+- Mail: ojayiioxide@gmail.com
+- Phone/WhatsApp: +234 9131607896
