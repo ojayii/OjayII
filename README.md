@@ -22,7 +22,6 @@ Here's a link to my Frontend mentor profile, where all of my solutions are submi
 - Frontend Mentor - https://www.frontendmentor.io/profile/ojayii
 
 ### Contact 
-Feel free to reach out to me through any of the following means:
+Feel free to reach out to me through the following means:
 
 - Mail: ojayiioxide@gmail.com
-- Phone/WhatsApp: +234 9131607896
