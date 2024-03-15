@@ -24,4 +24,4 @@ Here's a link to my Frontend mentor profile, where all of my solutions are submi
 ### Contact 
 Feel free to reach out to me through the following means:
 
-- Mail: ojayiioxide@gmail.com
+- Mail: josephogelenya@gmail.com
