@@ -26,22 +26,22 @@ Feel free to reach out to me through the following means:
 
 - Mail: josephogelenya@gmail.com
 
-<h2>👨‍💻 More About Me on GitHub</h2>
+<h2>More About Me on GitHub</h2>
 
 <details>
-<summary><b>🔥 Streak Stats</b></summary>
+<summary><b>Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=Briuwu&theme=radical&hide_border=true" alt="Briuwu" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ojayii&theme=radical&hide_border=true" alt="ojayii's streak stats" width="100%"/>
 </p>
 </details>
 
 <br>
   
 <details>
-<summary><b>⚡ Github Public Stats</b></summary>
+<summary><b>Github Public Stats</b></summary>
 <br>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Briuwu&show_icons=true&theme=radical&count_private=true" alt="Briuwu" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Briuwu&layout=compact&theme=radical" alt="Briuwu" height="165">
+<img src="https://github-readme-stats.vercel.app/api?username=ojayii&show_icons=true&theme=radical&count_private=true" alt="ojayii" width="100%"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojayii&layout=compact&theme=radical" alt="ojayii" width="100%">
 </p>
 </details>
