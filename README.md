@@ -25,3 +25,13 @@ Here's a link to my Frontend mentor profile, where all of my solutions are submi
 Feel free to reach out to me through the following means:
 
 - Mail: josephogelenya@gmail.com
+
+<h2>More About Me on GitHub</h2>
+
+<details open>
+<summary><b>🔥 Streak Stats</b></summary>
+<br>
+<p align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ojayii&theme=radical&hide_border=true" alt="ojayii" width="390"/>
+</p>
+</details>
