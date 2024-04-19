@@ -26,13 +26,13 @@ Feel free to reach out to me through the following means:
 
 - Mail: josephogelenya@gmail.com
 
-<h2>More About Me on GitHub</h2>
+<h4>More About Me on GitHub</h4>
 
 <details>
 <summary><b>Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ojayii&theme=radical&hide_border=true" alt="ojayii's streak stats" width="100%"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=ojayii&theme=radical" alt="ojayii's streak stats" width="100%"/>
 </p>
 </details>
 
