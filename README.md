@@ -32,6 +32,6 @@ Feel free to reach out to me through the following means:
 <summary><b>🔥 Streak Stats</b></summary>
 <br>
 <p align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ojayii&theme=radical&hide_border=true" alt="ojayii" width="390"/>
+<img src="http://github-readme-streak-stats.herokuapp.com?user=OjayII&theme=radical&hide_border=true" alt="ojayii" width="390"/>
 </p>
 </details>
