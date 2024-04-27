@@ -26,6 +26,7 @@ Feel free to reach out to me through the following means:
 
 - Mail: josephogelenya@gmail.com
 
+<!--
 <h4>More About Me on GitHub</h4>
 
 <details>
@@ -45,3 +46,4 @@ Feel free to reach out to me through the following means:
 <img src="https://github-readme-stats.vercel.app/api?username=ojayii&show_icons=true&theme=radical&count_private=true" alt="ojayii" width="340"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojayii&layout=compact&theme=radical" alt="ojayii" width="340">
 </p>
 </details>
+--> 
