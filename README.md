@@ -2,7 +2,7 @@
 
 My name is Joseph Ogelenya, but I go by "Ojay", for short.
 
-I am a computer science student, and a front end developer with aspirations of going fullstack in the nearest future.
+I am a Computer Science student, and a Front-end Developer with aspirations of going Fullstack in the nearest future.
 
 I am ready and open for collaborations or a Frontend role.
 
