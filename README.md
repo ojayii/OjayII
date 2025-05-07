@@ -10,7 +10,7 @@ My approach combines:
 • Thoughtful problem-solving over quick fixes
 
 
-### Need a dev that can actually deliver flawlessly?
+#### Need a dev that can actually deliver flawlessly?
 Let's talk. 
 
 Mail: josephogelenya@gmail.com
