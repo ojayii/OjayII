@@ -1,4 +1,4 @@
-# I transform complex problems into elegant digital solutions.
+### I transform complex problems into elegant digital solutions.
 
 With expertise in Frontend and web development, I specialize in creating intuitive web applications that deliver exceptional user experiences. 
 
@@ -10,7 +10,7 @@ My approach combines:
 • Thoughtful problem-solving over quick fixes
 
 
-## Need a dev that can actually deliver flawlessly?
+### Need a dev that can actually deliver flawlessly?
 Let's talk. 
 
 Mail: josephogelenya@gmail.com
