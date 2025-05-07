@@ -1,30 +1,19 @@
-# Hi there, and welcome to my profile.
+# I transform complex problems into elegant digital solutions.
 
-My name is Joseph Ogelenya, but I go by "Ojay", for short.
+With expertise in Frontend and web development, I specialize in creating intuitive web applications that deliver exceptional user experiences. 
 
-I am a Computer Science student, and a Front-end Developer with aspirations of going Fullstack in the nearest future.
+Currently building my first SaaS product while continuing to deliver results for clients across various industries.
 
-I am ready and open for collaborations or a Frontend role.
-
-
-## My skills
-
-I have knowledge and practice in building projects with the following technologies:
-- HTML
-- CSS
-- SCSS
-- Git and GitHub
-- Javascript
-- React
+My approach combines:
+• Clean, efficient code architecture
+• User-centered design principles
+• Thoughtful problem-solving over quick fixes
 
 
-Here's a link to my Frontend mentor profile, where all of my solutions are submitted:
-- Frontend Mentor - https://www.frontendmentor.io/profile/ojayii
+## Need a dev that can actually deliver flawlessly?
+Let's talk. 
 
-### Contact 
-Feel free to reach out to me through the following means:
-
-- Mail: josephogelenya@gmail.com
+Mail: josephogelenya@gmail.com
 
 <!--
 <h4>More About Me on GitHub</h4>
