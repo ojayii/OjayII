@@ -1,6 +1,6 @@
 ### I transform complex problems into elegant digital solutions.
 
-With expertise in Frontend and web development, I specialize in creating intuitive web applications that deliver exceptional user experiences. 
+With expertise in Web and Modile App development, I specialize in creating intuitive software applications that drive exceptional user experiences. 
 
 Currently building my first SaaS product while continuing to deliver results for clients across various industries.
 
